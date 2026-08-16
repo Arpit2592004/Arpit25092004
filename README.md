@@ -203,19 +203,19 @@ me.say_hi()
 <tr>
 
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="52"/>
+<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" width="52"/>
 <br/>
 <b>Power BI</b>
 </td>
 
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52"/>
+<img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="52"/>
 <br/>
 <b>Excel</b>
 </td>
 
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/ibm/1261FE" width="52"/>
+<img src="https://www.element61.be/sites/default/files/img_competences/IBM%2520Cognos.png" width="52"/>
 <br/>
 <b>IBM Cognos</b>
 </td>
