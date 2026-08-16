@@ -529,6 +529,39 @@ Currently exploring deeper machine learning pipelines, forecasting models and ad
 
 ---
 
+---
+
+<!-- ===================== GEEKSFORGEEKS ===================== -->
+
+<!-- ===================== GEEKSFORGEEKS ===================== -->
+
+<div align="center">
+
+## 🟢 GeeksforGeeks
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=2F8D46&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms;Problem+Solving+%7C+Competitive+Programming"/>
+
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/profile/arpit252cal?tab=activity" target="_blank">
+
+<img src="https://gfgstatscard.vercel.app/arpit252cal?theme=dark&v=2"
+     width="90%"
+     alt="GeeksforGeeks Coding Stats"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/profile/arpit252cal" target="_blank">
+
+<img src="https://img.shields.io/badge/View%20GFG%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
 <div align="center">
