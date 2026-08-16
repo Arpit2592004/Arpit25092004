@@ -504,31 +504,6 @@ Currently exploring deeper machine learning pipelines, forecasting models and ad
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-<div align="center">
-
-## 📊 Stats & Activity
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=FFD93D&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Commit+%E2%80%A2+Learn+%E2%80%A2+Repeat;Building+Consistency+One+Commit+at+a+Time"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=arpit25092004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit25092004&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit25092004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arpit25092004&theme=darkhub&no-frame=true&row=2&column=4" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit25092004&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
-
-</div>
-
----
 
 <!-- ===================== LEETCODE ===================== -->
 
@@ -564,7 +539,22 @@ Currently exploring deeper machine learning pipelines, forecasting models and ad
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/arpit25092004/arpit25092004/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github.com/Arpit2592004/Arpit25092004/blob/output/github-snake-dark.svg" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Arpit2592004/Arpit25092004/blob/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Arpit2592004/Arpit25092004/blob/output/github-snake.svg"
+  />
+  <img
+    src="https://github.com/Arpit2592004/Arpit25092004/blob/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
@@ -609,7 +599,7 @@ Bachelor of Technology in Computer Science and Communication Engineering
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/arpit25092004">
+<a href="https://github.com/Arpit2592004">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
